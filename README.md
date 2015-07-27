@@ -1,2 +1,4 @@
 # Resistor-Network
-- allows you to create a network of resistors
+
+- create a circuit with resistors and set know node voltages
+- draw that circuit and/or solve unknown node voltages
